@@ -1,0 +1,5 @@
+package com.usuario.utils;
+
+public class EmailUtils {
+
+}

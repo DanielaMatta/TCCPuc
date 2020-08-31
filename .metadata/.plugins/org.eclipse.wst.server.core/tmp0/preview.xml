@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="usuarios" name="usuarios" path="C:/Users/DANIELA/Desktop/ultima versao/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/usuarios" type="j2ee"/>
+</server>

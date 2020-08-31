@@ -1,0 +1,14 @@
+package com.usuario;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class Usuario2Service {
+
+	@Autowired
+	private Usuario2Repository rep;
+
+	public String findEmailByNomeAndSenha(String nome, String senha) {
+
+		return rep.findEmailByNomeAndSenha(nome, senha);
+	}
+}

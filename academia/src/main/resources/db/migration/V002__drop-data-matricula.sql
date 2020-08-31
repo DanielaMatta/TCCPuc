@@ -1,0 +1,1 @@
+ALTER TABLE aluno DROP COLUMN data_matricula_aluno;
